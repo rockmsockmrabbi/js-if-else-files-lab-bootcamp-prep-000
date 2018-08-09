@@ -1,6 +1,6 @@
 var name = "Joe"
-var height = "74"
-console.log("Hello, World!")
+var height console.log("Hello, World!")= "74"
+
 
 // Don't worry about this
 module.exports = { name, height
